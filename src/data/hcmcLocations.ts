@@ -33,475 +33,512 @@ export const INITIAL_LOCATIONS: TouristLocation[] = [
     "images": [
       "https://toliha.vn/wp-content/uploads/2024/10/truong-thpt-thang-long-ha-noi-3.jpeg",
     ],
-    "lat": 10.7824693989679,
-    "lng": 106.690850472009,
+    "lat": 21.000852788067423,
+    "lng": 105.84961388207323,
     "displayOrder": 0
   },
   {
-    "id": "DL",
-    "label": "Dinh Độc",
-    "fullName": "Dinh Độc Lập",
-    "category": "Danh lam thắng cảnh",
-    "description": "Dinh Độc Lập (hay Hội trường Thống Nhất) là một công trình kiến trúc độc đáo của kiến trúc sư Ngô Viết Thụ. Nơi đây từng là nơi ở và làm việc của Tổng thống Việt Nam Cộng hòa. Với khuôn viên xanh mát rộng lớn, các phòng họp sang trọng và hệ thống hầm trú ẩn kiên cố, Dinh không chỉ là một tuyệt tác kiến trúc mà còn là bảo tàng sống lưu giữ những khoảnh khắc lịch sử trọng đại của dân tộc.",
-    "shortIntro": "Di tích quốc gia đặc biệt, biểu tượng của sự hòa hợp và kết thúc chiến tranh tại Việt Nam.",
-    "neighborhood": "Bến Thành, Hồ Chí Minh, Việt Nam",
-    "bestFor": "Chụp ảnh, Kiến trúc, lịch sử",
-    "highlights": [
-      "Kiến trúc hiện đại thập niên 60",
-      "Di tích lịch sử đặc biệt"
-    ],
-    "x": 447,
-    "y": 334,
-    "fullNameEn": "Independence Palace",
-    "descriptionEn": "The Independence Palace (also known as Reunification Hall) is a unique architectural work by architect Ngo Viet Thu. It served as the residence and workplace of the President of South Vietnam. Featuring a vast green grounds, luxurious meeting rooms, and a reinforced basement bunker system, the Palace is not only an architectural masterpiece but also a living museum preserving significant historical moments of the nation.",
-    "shortIntroEn": "A special national relic, a symbol of harmony and of the end of the Vietnam war.",
-    "neighborhoodEn": "Ben Thanh Ward, Ho Chi Minh City",
-    "bestForEn": "Historical education, architectural tours, photography, international tourists.",
-    "highlightsEn": [
-      "1960s modern architecture",
-      "Special historic site"
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/UfdguCJXt3w5kaDE9",
-    "images": [
-      "https://dinhdoclap.gov.vn/wp-content/uploads/2025/12/luu-nhap-tu-dong-9989.jpg",
-      "https://dinhdoclap.gov.vn/wp-content/uploads/2025/12/anh-dinh-doc-lap-noi-luu-giu-dau-an-sau-50-nam-giai-phong-9957.jpg",
-      "https://dulichlive.com/sai-gon/wp-content/uploads/sites/9/2020/11/Huong-dan-tham-quan-Dinh-Doc-Lap-01.jpg"
-    ],
-    "lat": 10.7780942731978,
-    "lng": 106.696257590003,
-    "displayOrder": 1
+    {
+"id": "BH",
+"label": "Bờ Hồ Hà Nội",
+"fullName": "Hồ Hoàn Kiếm",
+"category": "Danh lam thắng cảnh",
+"description": "Hồ Hoàn Kiếm, còn được gọi là Hồ Gươm, là một trong những biểu tượng lịch sử và văn hóa nổi tiếng nhất của thủ đô Hà Nội. Nằm giữa trung tâm thành phố, hồ gắn liền với truyền thuyết vua Lê Lợi trả gươm báu cho Rùa Vàng. Với mặt hồ xanh biếc, Tháp Rùa cổ kính, cầu Thê Húc đỏ rực dẫn vào đền Ngọc Sơn và những hàng cây xanh ven hồ, nơi đây mang vẻ đẹp hài hòa giữa thiên nhiên, kiến trúc và lịch sử. Bờ Hồ là điểm đến lý tưởng để dạo bộ, khám phá văn hóa Hà Nội, chụp ảnh và trải nghiệm không khí phố đi bộ vào dịp cuối tuần.",
+"shortIntro": "Biểu tượng văn hóa và lịch sử của Hà Nội, nổi bật với Tháp Rùa, cầu Thê Húc và đền Ngọc Sơn.",
+"neighborhood": "Hàng Trống, Hoàn Kiếm, Hà Nội, Việt Nam",
+"bestFor": "Tham quan, Chụp ảnh, Lịch sử, Văn hóa, Dạo bộ",
+"highlights": [
+"Tháp Rùa giữa lòng Hồ Gươm",
+"Cầu Thê Húc và đền Ngọc Sơn",
+"Không gian phố đi bộ cuối tuần",
+"Di tích lịch sử và văn hóa đặc sắc của Hà Nội"
+],
+"x": 447,
+"y": 334,
+"fullNameEn": "Hoan Kiem Lake",
+"descriptionEn": "Hoan Kiem Lake, also known as Sword Lake, is one of the most iconic historical and cultural landmarks in Hanoi, Vietnam. Located in the heart of the capital, the lake is associated with the legend of King Le Loi returning the sacred sword to the Golden Turtle. With its tranquil waters, the historic Turtle Tower, the iconic red The Huc Bridge leading to Ngoc Son Temple, and tree-lined walking paths, the lake offers a harmonious blend of nature, architecture, and history. It is an ideal destination for sightseeing, photography, cultural exploration, and experiencing Hanoi's vibrant pedestrian streets on weekends.",
+"shortIntroEn": "A historic and cultural symbol of Hanoi, famous for Turtle Tower, The Huc Bridge, and Ngoc Son Temple.",
+"neighborhoodEn": "Hang Trong Ward, Hoan Kiem District, Hanoi, Vietnam",
+"bestForEn": "Sightseeing, Photography, History, Culture, Walking",
+"highlightsEn": [
+"Turtle Tower in the middle of the lake",
+"The Huc Bridge and Ngoc Son Temple",
+"Weekend pedestrian streets",
+"A distinctive historical and cultural landmark of Hanoi"
+],
+"googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoan+Kiem+Lake+Hanoi+Vietnam",
+"images": [
+"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+"https://images.unsplash.com/photo-1519501025264-65ba15a82390",
+"https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+],
+"lat": 21.028666,
+"lng": 105.852148,
+"displayOrder": 1
+},
+  {
+   {
+"id": "CDX",
+"label": "Chợ Đồng Xuân",
+"fullName": "Chợ Đồng Xuân",
+"category": "Mua sắm",
+"description": "Chợ Đồng Xuân là một trong những khu chợ truyền thống lâu đời và nổi tiếng nhất của Hà Nội, nằm trong khu phố cổ sầm uất. Với kiến trúc mặt tiền đặc trưng và không gian buôn bán nhộn nhịp, chợ là nơi tập trung nhiều mặt hàng như quần áo, vải vóc, đồ gia dụng, đồ lưu niệm và đặc sản địa phương. Không chỉ là trung tâm giao thương quan trọng, Chợ Đồng Xuân còn phản ánh nét văn hóa kinh doanh truyền thống và nhịp sống của người dân thủ đô. Đây là điểm đến phù hợp cho du khách muốn khám phá văn hóa chợ truyền thống, tìm mua quà lưu niệm và thưởng thức các món ăn đặc trưng của Hà Nội.",
+"shortIntro": "Khu chợ truyền thống nổi tiếng giữa phố cổ Hà Nội, nơi khám phá văn hóa mua bán, ẩm thực và đời sống địa phương.",
+"neighborhood": "Đồng Xuân, Hoàn Kiếm, Hà Nội, Việt Nam",
+"bestFor": "Mua sắm, tìm quà lưu niệm, khám phá văn hóa địa phương, thưởng thức ẩm thực, chụp ảnh.",
+"highlights": [
+"Khu chợ truyền thống nổi tiếng của phố cổ Hà Nội",
+"Đa dạng hàng hóa và quà lưu niệm",
+"Ẩm thực đường phố mang đậm hương vị Hà Nội",
+"Không gian mua bán nhộn nhịp và giàu giá trị văn hóa"
+],
+"x": 517,
+"y": 444,
+"fullNameEn": "Dong Xuan Market",
+"descriptionEn": "Dong Xuan Market is one of Hanoi's oldest and most famous traditional markets, located in the bustling Old Quarter. Featuring a distinctive facade and a lively trading atmosphere, the market offers a wide range of products, including clothing, textiles, household goods, souvenirs, and local specialties. Beyond being an important commercial center, Dong Xuan Market reflects Hanoi's traditional trading culture and everyday local life. It is an ideal destination for visitors who want to explore a traditional Vietnamese market, shop for souvenirs, and sample Hanoi's local cuisine.",
+"shortIntroEn": "A famous traditional market in Hanoi's Old Quarter, offering a glimpse into local shopping culture, cuisine, and everyday life.",
+"neighborhoodEn": "Dong Xuan Ward, Hoan Kiem District, Hanoi, Vietnam",
+"bestForEn": "Shopping, souvenir hunting, local culture, street food, photography.",
+"highlightsEn": [
+"A famous traditional market in Hanoi's Old Quarter",
+"A wide variety of goods and souvenirs",
+"Street food featuring Hanoi specialties",
+"A lively trading atmosphere rich in local culture"
+],
+"googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dong+Xuan+Market+Hanoi+Vietnam",
+"images": [
+"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dong_Xuan_Market%2C_Hanoi.jpg/1280px-Dong_Xuan_Market%2C_Hanoi.jpg",
+"https://images.unsplash.com/photo-1519501025264-65ba15a82390",
+"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+],
+"lat": 21.0382,
+"lng": 105.8500,
+"displayOrder": 2
   },
   {
-    "id": "CHỢ",
-    "label": "Bến Thàn",
-    "fullName": "Chợ Bến Thành",
-    "category": "Mua sắm",
-    "description": "Chợ Bến Thành là một trong những công trình tiêu biểu nhất của thành phố với tháp đồng hồ ở cửa Nam nổi tiếng. Chợ không chỉ là nơi giao thương sầm uất với đủ loại hàng hóa từ đồ lưu niệm, vải vóc đến thực phẩm, mà còn là thiên đường ẩm thực đường phố. Đây là điểm dừng chân lý tưởng để du khách tìm hiểu văn hóa địa phương và thưởng thức những món ăn đặc sản đậm chất miền Nam.",
-    "shortIntro": "Ngôi chợ biểu tượng hơn 100 năm tuổi, nơi trải nghiệm nhịp sống Sài Gòn thực thụ qua ẩm thực và mua sắm.",
-    "neighborhood": "Phường Bến Thành, Thành phố Hồ Chí Minh",
-    "bestFor": "Mua sắm quà lưu niệm, thưởng thức ẩm thực, chụp ảnh check-in, khách du lịch quốc tế.",
-    "highlights": [
-      "Tháp đồng hồ biểu tượng",
-      "Thiên đường ẩm thực"
-    ],
-    "x": 517,
-    "y": 444,
-    "fullNameEn": "Ben Thanh Market",
-    "descriptionEn": "Ben Thanh Market is one of the city's most symbolic structures, famous for its South Gate clock tower. More than just a bustling trading hub for souvenirs, textiles, and groceries, it is also a street food paradise. It is the perfect spot for visitors to explore the local culture and enjoy authentic Southern Vietnamese specialties.",
-    "shortIntroEn": "An iconic century-old market where you can experience authentic Saigon life through local cuisine and shopping.",
-    "neighborhoodEn": "Ben Thanh Ward, Ho Chi Minh City",
-    "bestForEn": "Souvenir shopping, food tasting, photography, international tourists.",
-    "highlightsEn": [
-      "Iconic clock tower",
-      "Street food heaven"
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/chj29H2WfboEuUo26",
-    "images": [
-      "https://cly.1cdn.vn/thumbs/720x480/2026/02/10/W_dji_0963(2).jpg",
-      "https://sakos.vn/wp-content/uploads/2024/07/THUMB-SAKOS-6.jpg",
-      "https://cdn.thesaigontimes.vn/wp-content/uploads/2026/02/CHO-BEN-THANH-LE-VU-9.jpg"
-    ],
-    "lat": 10.7719601310374,
-    "lng": 106.698306762831,
-    "displayOrder": 2
-  },
-  {
-    "id": "TCV",
-    "label": "Thảo Cầm",
-    "fullName": "Thảo Cầm Viên",
-    "category": "Công viên",
-    "description": "Được xây dựng từ năm 1864, Thảo Cầm Viên Sài Gòn là một trong những vườn thú lâu đời nhất thế giới còn tồn tại. Nơi đây nuôi dưỡng hơn 1.000 cá thể động vật thuộc hàng trăm loài và sở hữu bộ sưu tập thực vật quý hiếm khổng lồ. Với không gian rợp bóng cây cổ thụ, đây là điểm đến yêu thích để dã ngoại, tìm hiểu thiên nhiên và lưu giữ những kỷ niệm tuổi thơ của nhiều thế hệ người dân thành phố.",
-    "shortIntro": "\"Lá phổi xanh\" lâu đời giữa lòng Sài Gòn với hệ sinh thái động thực vật phong phú và không gian thư giãn lý tưởng.",
-    "neighborhood": "2 Nguyễn Bỉnh Khiêm, phường Bến Nghé, Quận 1, Hồ Chí Minh",
-    "bestFor": "Dã ngoại gia đình, học tập ngoại khóa, chụp ảnh thiên nhiên, khách du lịch có trẻ nhỏ.",
-    "highlights": [
-      "Bảo tàng sinh vật học trong lòng Thành phố Hồ Chí Minh"
-    ],
-    "x": 746,
-    "y": 169,
-    "fullNameEn": "Saigon Zoo & Botanical Gardens",
-    "descriptionEn": "Established in 1864, Saigon Zoo and Botanical Gardens is one of the world's oldest surviving zoos. It houses over 1,000 animals from hundreds of species and a vast collection of rare plants. With its canopy of ancient trees, it is a favorite destination for picnics, nature exploration, and a place that holds childhood memories for generations of city dwellers.",
-    "shortIntroEn": "An ancient \"green lung\" in the heart of Saigon, featuring diverse flora and fauna and an ideal space for relaxation.",
-    "neighborhoodEn": "2 Nguyen Binh Khiem, Ben Nghe Ward, District 1, Ho Chi Minh City",
-    "bestForEn": "Family picnics, educational field trips, nature photography, tourists with children.",
-    "highlightsEn": [
-      "A biology museum in the heart of Ho Chi Minh City."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/XPE2e1zggTyxGU8g9",
-    "images": [
-      "https://static.vinwonders.com/production/thao-cam-vien-1.jpg",
-      "https://statics.vinpearl.com/thao-cam-vien-02_1630029974.jpg"
-    ],
-    "lat": 10.7873583903011,
-    "lng": 106.705055231837,
+   "id": "CTL",
+  "label": "Thủ Lệ",
+  "fullName": "Công viên Thủ Lệ",
+  "category": "Công viên",
+  "description": "Được khánh thành vào năm 1976, Công viên Thủ Lệ là một trong những điểm vui chơi, giải trí và tham quan thiên nhiên nổi tiếng tại Hà Nội. Tọa lạc tại khu vực phường Ngọc Khánh, công viên nổi bật với không gian xanh mát, hồ nước rộng và vườn thú đa dạng các loài động vật. Đây là điểm đến quen thuộc của các gia đình, đặc biệt là trẻ em, đồng thời là nơi lý tưởng để dạo chơi, thư giãn và tìm hiểu về thế giới động vật giữa lòng Thủ đô.",
+  "shortIntro": "Không gian xanh kết hợp vườn thú lâu đời giữa lòng Hà Nội, là điểm vui chơi và khám phá thiên nhiên yêu thích của nhiều gia đình.",
+  "neighborhood": "Đường Bưởi, phường Ngọc Khánh, Hà Nội",
+  "bestFor": "Vui chơi gia đình, tham quan vườn thú, hoạt động ngoại khóa, chụp ảnh thiên nhiên, du khách có trẻ nhỏ.",
+  "highlights": [
+    "Vườn thú với nhiều loài động vật phong phú",
+    "Hồ Thủ Lệ và không gian cây xanh thoáng mát",
+    "Các khu vui chơi dành cho trẻ em"
+  ],
+  "x": 746,
+  "y": 169,
+  "fullNameEn": "Thu Le Park",
+  "descriptionEn": "Opened in 1976, Thu Le Park is one of Hanoi's well-known destinations for recreation, sightseeing, and nature exploration. Located in the Ngoc Khanh area, the park features lush greenery, a large lake, and a zoo housing a variety of animal species. It is a popular destination for families, especially children, and an ideal place to stroll, relax, and learn about wildlife in the heart of the capital.",
+  "shortIntroEn": "A green urban park featuring a long-established zoo in Hanoi, popular with families and nature enthusiasts.",
+  "neighborhoodEn": "Buoi Street, Ngoc Khanh Ward, Hanoi, Vietnam",
+  "bestForEn": "Family outings, zoo visits, educational field trips, nature photography, tourists with children.",
+  "highlightsEn": [
+    "A zoo featuring a diverse range of animal species",
+    "Thu Le Lake and relaxing green spaces",
+    "Recreational areas for children"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thu+Le+Park+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    "https://images.unsplash.com/photo-1546182990-dffeafbe841d"
+  ], 
+  "lat": 21.030796419998325,
+  "lng": 105.8035074360485
     "displayOrder": 3
   },
   {
-    "id": "BẾN",
-    "label": "Bến Bạch",
-    "fullName": "Bến Bạch Đằng",
-    "category": "Danh lam thắng cảnh",
-    "description": "Bến Bạch Đằng là một quần thể bao gồm công viên ven sông, ga tàu cao tốc và bến du thuyền. Sau khi được cải tạo, nơi đây trở thành không gian công cộng xanh mát với tầm nhìn cực đẹp hướng về phía những tòa nhà chọc trời của Thủ Thiêm. Đây là điểm xuất phát của tuyến xe buýt đường sông (Water Bus) - một trải nghiệm độc đáo để ngắm nhìn thành phố từ một góc độ hoàn toàn khác.",
-    "shortIntro": "Công viên ven sông hiện đại, nơi lý tưởng để đi dạo, ngắm toàn cảnh Thủ Thiêm và trải nghiệm Water Bus.",
-    "neighborhood": "1 Tôn Đức Thắng, Bến Nghé, Sài Gòn, Hồ Chí Minh",
-    "bestFor": "Đi dạo hóng mát, chụp ảnh phong cảnh, hẹn hò, trải nghiệm bus sông.",
-    "highlights": [
-      "View sông Sài Gòn",
-      "Công viên hiện đại",
-      "Ga tàu thủy trung tâm",
-      "Không gian thoáng đãng."
-    ],
-    "x": 803,
-    "y": 382,
-    "fullNameEn": "Bach Dang Wharf",
-    "descriptionEn": "Bach Dang Wharf is a complex featuring a riverside park, a high-speed boat station, and a yacht pier. Following its renovation, it has become a lush public space offering stunning views of the Thu Thiem skyline. It serves as the main terminal for the Saigon Water Bus, a unique experience that allows visitors to see the city from a completely different perspective.",
-    "shortIntroEn": "A modern riverside park, ideal for strolling, enjoying Thu Thiem panoramic views, and experiencing the Water Bus.",
-    "neighborhoodEn": "1 Ton Duc Thang St., Ben Nghe Ward, Saigon, Ho Chi Minh City",
-    "bestForEn": "Riverside walking, landscape photography, dating, water bus experience.",
-    "highlightsEn": [
-      "Saigon River view",
-      "Modern park",
-      "Central Water Bus station",
-      "Airy open space."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/ngcVc8q4tLQHTS498?g_st=ic",
-    "images": [
-      "https://ik.imagekit.io/tvlk/blog/2022/12/ben-bach-dang-5-1024x683.jpg?tr=q-70,c-at_max,w-1000,h-600",
-      "https://www.traveloka.com/vi-vn/explore/destination/cong-vien-ben-bach-dang/258837"
-    ],
-    "lat": 10.775430835067,
-    "lng": 106.706728903441,
-    "displayOrder": 4
+   "id": "LCT",
+"label": "Lăng Bác",
+"fullName": "Lăng Chủ tịch Hồ Chí Minh",
+"category": "Di tích lịch sử",
+"description": "Lăng Chủ tịch Hồ Chí Minh là một trong những công trình lịch sử và văn hóa quan trọng nhất của Việt Nam, tọa lạc tại Quảng trường Ba Đình, thủ đô Hà Nội. Đây là nơi gìn giữ thi hài Chủ tịch Hồ Chí Minh, vị lãnh tụ kính yêu của dân tộc Việt Nam. Công trình được khánh thành ngày 29 tháng 8 năm 1975, mang kiến trúc trang nghiêm, vững chắc, kết hợp các yếu tố kiến trúc hiện đại với bản sắc dân tộc. Phía trước lăng là Quảng trường Ba Đình rộng lớn, nơi Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập ngày 2 tháng 9 năm 1945, khai sinh nước Việt Nam Dân chủ Cộng hòa. Khu vực xung quanh còn có Phủ Chủ tịch, nhà sàn Bác Hồ, ao cá và Bảo tàng Hồ Chí Minh, tạo thành quần thể di tích có giá trị lịch sử đặc biệt. Đây là điểm đến ý nghĩa để người dân và du khách tìm hiểu lịch sử dân tộc, tưởng nhớ công lao của Chủ tịch Hồ Chí Minh và khám phá những giá trị văn hóa của thủ đô Hà Nội.",
+"shortIntro": "Di tích lịch sử đặc biệt tại Quảng trường Ba Đình, nơi an nghỉ của Chủ tịch Hồ Chí Minh và gắn liền với dấu mốc khai sinh nước Việt Nam hiện đại.",
+"neighborhood": "Quảng trường Ba Đình, phường Điện Biên, Hà Nội, Việt Nam",
+"bestFor": "Tham quan lịch sử, tìm hiểu văn hóa, giáo dục truyền thống, viếng Lăng Bác, chụp ảnh khu vực bên ngoài.",
+"highlights": [
+"Công trình kiến trúc trang nghiêm, biểu tượng lịch sử của Việt Nam",
+"Quảng trường Ba Đình – nơi Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập",
+"Nghi lễ thượng cờ và hạ cờ tại Quảng trường Ba Đình",
+"Quần thể di tích gồm Phủ Chủ tịch, nhà sàn Bác Hồ và ao cá",
+"Bảo tàng Hồ Chí Minh với nhiều tư liệu về cuộc đời và sự nghiệp của Bác"
+],
+"x": 803,
+"y": 382,
+"fullNameEn": "Ho Chi Minh Mausoleum",
+"descriptionEn": "The Ho Chi Minh Mausoleum is one of Vietnam's most important historical and cultural landmarks, located in Ba Dinh Square in Hanoi. It preserves the embalmed body of President Ho Chi Minh, the beloved leader of the Vietnamese people. Officially inaugurated on August 29, 1975, the mausoleum features solemn and monumental architecture that combines modern design with Vietnamese national identity. In front of the mausoleum lies the spacious Ba Dinh Square, where President Ho Chi Minh proclaimed the Declaration of Independence on September 2, 1945, establishing the Democratic Republic of Vietnam. The surrounding complex also includes the Presidential Palace, Ho Chi Minh's Stilt House, the fish pond, and the Ho Chi Minh Museum. Together, these sites offer visitors an opportunity to learn about Vietnamese history, honor President Ho Chi Minh's legacy, and explore the cultural heritage of Hanoi.",
+"shortIntroEn": "A major historical landmark in Ba Dinh Square, Hanoi, honoring President Ho Chi Minh and commemorating the birth of modern Vietnam.",
+"neighborhoodEn": "Ba Dinh Square, Dien Bien Ward, Hanoi, Vietnam",
+"bestForEn": "Historical sightseeing, cultural exploration, educational visits, paying respects to Ho Chi Minh, exterior photography.",
+"highlightsEn": [
+"A solemn architectural landmark and symbol of Vietnamese history",
+"Ba Dinh Square, where the Declaration of Independence was proclaimed",
+"The flag-raising and flag-lowering ceremonies at Ba Dinh Square",
+"A historic complex featuring the Presidential Palace, Ho Chi Minh's Stilt House, and the fish pond",
+"The Ho Chi Minh Museum, showcasing materials about his life and legacy"
+],
+"googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho+Chi+Minh+Mausoleum+Ba+Dinh+Hanoi+Vietnam",
+"images": [
+"/images/lang-bac.png"
+],  
+"lat": 21.037087541800986,
+"lng": 105.83465596673248,
+"displayOrder": 4
   },
   {
-    "id": "BD",
-    "label": "Bưu điện",
-    "fullName": "Bưu điện Thành phố",
-    "category": "Danh lam thắng cảnh",
-    "description": "Được xây dựng từ năm 1886 đến 1891 bởi kiến trúc sư lừng danh Gustave Eiffel, Bưu điện Trung tâm Thành phố gây ấn tượng với sự kết hợp hài hòa giữa phong cách châu Âu và nét trang trí phương Đông. Bên trong, vòm trần cao vút cùng những bản đồ lịch sử vẽ tay trên tường tạo nên một không gian hoài cổ, đưa du khách trở về với vẻ đẹp của Sài Gòn xưa.",
-    "shortIntro": "Kiệt tác kiến trúc Phục Hưng giữa lòng Sài Gòn, điểm đến di sản vẫn đang hoạt động bền bỉ sau hơn một thế kỷ.",
-    "neighborhood": "02 Công trường Công xã Paris, Sài Gòn, Hồ Chí Minh",
-    "bestFor": "Chụp ảnh check-in, gửi bưu thiếp, tìm hiểu lịch sử, tham quan kiến trúc.",
-    "highlights": [
-      "Kiến trúc Phục Hưng",
-      "Vòm trần biểu tượng",
-      "Bản đồ vẽ tay cổ kính",
-      "Vị trí trung tâm."
-    ],
-    "x": 571,
-    "y": 308,
-    "fullNameEn": "Saigon Central Post Office",
-    "descriptionEn": "Built between 1886 and 1891 by the famous architect Gustave Eiffel, the Central Post Office impresses with its harmonious blend of European style and Oriental motifs. Inside, the soaring vaulted ceilings and hand-painted historical maps on the walls create a nostalgic atmosphere, transporting visitors back to the timeless charm of old Saigon.",
-    "shortIntroEn": "A Renaissance architectural masterpiece in the heart of Saigon, a living heritage site still operating after more than a century.",
-    "neighborhoodEn": "02 Paris Commune Square, Saigon , Ho Chi Minh City",
-    "bestForEn": "Photography, sending postcards, learning history, architectural tours.",
-    "highlightsEn": [
-      "Renaissance architecture",
-      "Iconic vaulted ceiling",
-      "Ancient hand-painted maps",
-      "Prime central location."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/LH4mKvc5U9akfj7r9",
-    "images": [
-      "https://images2.thanhnien.vn/528068263637045248/2023/6/5/hcm-1685938434919901822107.jpg",
-      "https://cdn.xanhsm.com/2024/12/f10f8c19-buu-dien-sai-gon-1.jpg",
-      "https://mia.vn/media/uploads/blog-du-lich/buu-dien-thanh-pho-1-1757126972.jpg"
-    ],
-    "lat": 10.7795905629358,
-    "lng": 106.699910581114,
-    "displayOrder": 5
+     "id": "LOTTE",
+  "label": "Lotte",
+  "fullName": "Tòa nhà Lotte Center Hanoi",
+  "category": "Danh lam thắng cảnh",
+  "description": "Hoàn thành vào năm 2014, Lotte Center Hanoi là một trong những tòa nhà chọc trời nổi bật của Thủ đô, tọa lạc tại khu vực Liễu Giai, quận Ba Đình. Với thiết kế kiến trúc hiện đại và chiều cao ấn tượng, công trình là tổ hợp đa chức năng bao gồm trung tâm thương mại, văn phòng, khách sạn và khu căn hộ cao cấp. Đặc biệt, đài quan sát trên cao mang đến tầm nhìn toàn cảnh Hà Nội, trở thành điểm đến hấp dẫn dành cho du khách yêu thích khám phá thành phố từ trên cao.",
+  "shortIntro": "Tòa nhà chọc trời biểu tượng của Hà Nội với kiến trúc hiện đại, trung tâm mua sắm sầm uất và đài quan sát ngắm toàn cảnh thành phố.",
+  "neighborhood": "54 Liễu Giai, phường Ngọc Hà, Hà Nội",
+  "bestFor": "Ngắm toàn cảnh thành phố, mua sắm, chụp ảnh check-in, trải nghiệm kiến trúc hiện đại, vui chơi cùng gia đình.",
+  "highlights": [
+    "Kiến trúc nhà chọc trời hiện đại",
+    "Đài quan sát Lotte Observation Deck",
+    "Trung tâm thương mại với nhiều thương hiệu nổi tiếng",
+    "Tầm nhìn toàn cảnh Hà Nội từ trên cao"
+  ],
+  "x": 571,
+  "y": 308,
+  "fullNameEn": "Lotte Center Hanoi",
+  "descriptionEn": "Completed in 2014, Lotte Center Hanoi is one of the capital's most prominent skyscrapers, located in the Lieu Giai area of Hanoi. Featuring striking modern architecture, the building is a multifunctional complex housing a shopping mall, offices, a hotel, and luxury residences. Its observation deck offers panoramic views of Hanoi, making it an attractive destination for visitors who want to experience the city from above.",
+  "shortIntroEn": "An iconic Hanoi skyscraper featuring modern architecture, a vibrant shopping mall, and an observation deck with panoramic city views.",
+  "neighborhoodEn": "54 Lieu Giai Street, Ngoc Ha Ward, Hanoi, Vietnam",
+  "bestForEn": "Panoramic city views, shopping, photography, modern architecture, family outings.",
+  "highlightsEn": [
+    "Striking modern skyscraper architecture",
+    "Lotte Observation Deck",
+    "Shopping mall featuring international brands",
+    "Panoramic views of Hanoi from above"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte+Center+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b",
+    "https://images.unsplash.com/photo-1511818966892-d7d671e672a2",
+    "https://images.unsplash.com/photo-1449824913935-59a10b8d2000"
+  ],
+  "lat": 21.0313,
+  "lng": 105.8127
+  "displayOrder": 5
   },
   {
-    "id": "NT",
-    "label": "Đức Bà",
-    "fullName": "Nhà thờ Đức Bà",
-    "category": "Danh lam thắng cảnh",
-    "description": "Được khánh thành vào năm 1880, Nhà thờ Đức Bà là công trình tôn giáo biểu tượng với hai tháp chuông cao vút và toàn bộ gạch xây dựng được mang từ Marseille (Pháp) sang. Dù đang trong quá trình trùng tu, vẻ đẹp uy nghiêm và cổ kính của nhà thờ vẫn thu hút hàng ngàn du khách mỗi ngày. Đây không chỉ là nơi hành hương của giáo dân mà còn là bối cảnh chụp ảnh yêu thích của mọi du khách khi đến thành phố.",
-    "shortIntro": "Tuyệt tác kiến trúc Roman pha trộn Gothic với gạch đỏ đặc trưng, trái tim của trung tâm Sài Gòn.",
-    "neighborhood": "01 Công trường Công xã Paris, Bến Nghé, Hồ Chí Minh 70000, Việt Nam",
-    "bestFor": "Chụp ảnh check-in, tham quan kiến trúc, du lịch tâm linh, khách du lịch lần đầu.",
-    "highlights": [
-      "Gạch đỏ Marseille",
-      "Hai tháp chuông 57m"
-    ],
-    "x": 550,
-    "y": 308,
-    "fullNameEn": "Notre-Dame Cathedral Basilica of Saigon",
-    "descriptionEn": "Inaugurated in 1880, Notre-Dame Cathedral is an iconic religious structure featuring twin bell towers and red bricks imported directly from Marseille, France. Although currently undergoing renovation, its solemn and ancient beauty continues to attract thousands of visitors daily. It is both a sacred place for pilgrimage and a favorite photography backdrop for anyone visiting the city.\nAlthough it is under maintenance at the moment, it still is a location worth visiting.",
-    "shortIntroEn": "A Romanesque and Gothic architectural masterpiece with iconic red bricks, the heart of central Saigon.",
-    "neighborhoodEn": "1 Paris Commune Square, Ben Nghe Ward, Ho Chi Minh City",
-    "bestForEn": "Photography, architectural tours, spiritual tourism, first-time visitors.",
-    "highlightsEn": [
-      "Marseille red bricks",
-      "57m twin bell towers"
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/J6c26rprYfDoPo8C6",
-    "images": [
-      "https://h3jd9zjnmsobj.vcdn.cloud/public/mytravelmap/images/2020/3/21/myloveforyou14022462/f63e9e292a2d93f4552f25d5bec0671d.jpg",
-      "https://bloganchoi.com/wp-content/uploads/2022/08/z3654718992612-bda277f802645d92bf71ba88f98317e8-1.jpg"
-    ],
-    "lat": 10.7795749807071,
-    "lng": 106.699277772353,
-    "displayOrder": 6
+   "id": "VMQTG",
+  "label": "Văn Miếu",
+  "fullName": "Văn Miếu – Quốc Tử Giám",
+  "category": "Danh lam thắng cảnh",
+  "description": "Được xây dựng vào năm 1070 dưới triều vua Lý Thánh Tông, Văn Miếu – Quốc Tử Giám là quần thể di tích lịch sử, văn hóa tiêu biểu của Hà Nội và được xem là trường đại học đầu tiên của Việt Nam. Nơi đây thờ Khổng Tử, các bậc hiền triết Nho học và lưu giữ những giá trị quý báu của nền giáo dục Việt Nam qua nhiều thế kỷ. Nổi bật với Khuê Văn Các, giếng Thiên Quang và hệ thống 82 bia tiến sĩ được UNESCO ghi danh là Di sản tư liệu thế giới, địa danh này là điểm đến hấp dẫn dành cho những ai muốn tìm hiểu lịch sử, văn hóa và truyền thống hiếu học của dân tộc.",
+  "shortIntro": "Quần thể di tích giáo dục và văn hóa lâu đời của Thủ đô, biểu tượng của truyền thống hiếu học Việt Nam với kiến trúc cổ kính và Khuê Văn Các nổi tiếng.",
+  "neighborhood": "58 Quốc Tử Giám, phường Văn Miếu – Quốc Tử Giám, Hà Nội, Việt Nam",
+  "bestFor": "Tìm hiểu lịch sử và văn hóa, tham quan kiến trúc cổ, chụp ảnh check-in, du lịch giáo dục, trải nghiệm văn hóa truyền thống.",
+  "highlights": [
+    "Khuê Văn Các – biểu tượng văn hóa của Hà Nội",
+    "82 bia tiến sĩ ghi danh các nhà khoa bảng Việt Nam",
+    "Giếng Thiên Quang và khuôn viên kiến trúc truyền thống",
+    "Di tích trường đại học đầu tiên của Việt Nam"
+  ],
+  "x": 550,
+  "y": 308,
+  "fullNameEn": "Temple of Literature – Imperial Academy",
+  "descriptionEn": "Established in 1070 under Emperor Ly Thanh Tong, the Temple of Literature – Imperial Academy is one of Hanoi's most important historical and cultural landmarks and is widely recognized as the site of Vietnam's first national university. Dedicated to Confucius and prominent scholars, the complex preserves the country's educational heritage across centuries. Its highlights include Khue Van Pavilion, the Well of Heavenly Clarity, and 82 doctoral stelae recognized by UNESCO as Memory of the World documentary heritage. It is an ideal destination for visitors interested in Vietnamese history, traditional architecture, and the nation's long-standing respect for education.",
+  "shortIntroEn": "A historic cultural and educational complex in Hanoi, symbolizing Vietnam's scholarly tradition through its ancient architecture and iconic Khue Van Pavilion.",
+  "neighborhoodEn": "58 Quoc Tu Giam Street, Hanoi, Vietnam",
+  "bestForEn": "Historical and cultural exploration, traditional architecture, photography, educational tourism, cultural experiences.",
+  "highlightsEn": [
+    "Khue Van Pavilion – an iconic symbol of Hanoi",
+    "82 doctoral stelae commemorating Vietnamese scholars",
+    "The Well of Heavenly Clarity and traditional architecture",
+    "The site of Vietnam's first national university"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple+of+Literature+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742"
+  ],
+  "lat": 21.0277,
+  "lng": 105.8355
+  "displayOrder": 6
   },
   {
-    "id": "PĐB",
-    "label": "Đi Bộ",
-    "fullName": "Phố đi bộ Nguyễn Huệ",
-    "category": "Danh lam thắng cảnh",
-    "description": "Phố đi bộ Nguyễn Huệ kéo dài từ trước trụ sở UBND Thành phố đến bến Bạch Đằng, là không gian công cộng sầm uất với hệ thống phun nước nghệ thuật và nhiều cây xanh. Nơi đây tập trung vô số quán cà phê phong cách, nhà hàng đa dạng và các cửa hàng thương hiệu nổi tiếng. Đặc biệt vào mỗi tối cuối tuần, con phố trở nên náo nhiệt hơn bao giờ hết với các nhóm nghệ sĩ đường phố và bầu không khí trẻ trung, năng động.",
-    "shortIntro": "Quảng trường đi bộ hiện đại bậc nhất thành phố, nơi diễn ra các hoạt động văn hóa, giải trí và biểu diễn nghệ thuật đường phố.",
-    "neighborhood": "Đường Nguyễn Huệ, phường Sài Gòn",
-    "bestFor": "Đi dạo ngắm cảnh, chụp ảnh check-in, trải nghiệm ẩm thực, tụ tập bạn bè.",
-    "highlights": [
-      "Quảng trường trung tâm",
-      "Nhạc nước nghệ thuật"
-    ],
-    "x": 699,
-    "y": 411,
-    "fullNameEn": "Nguyen Hue Walking Street",
-    "descriptionEn": "Stretching from the City Hall to Bach Dang Wharf, Nguyen Hue Walking Street is a bustling public space featuring artistic fountains and lush greenery. It is home to countless stylish cafes, diverse restaurants, and famous brand stores. Especially on weekend evenings, the street becomes livelier than ever with street performers and a youthful, energetic atmosphere.",
-    "shortIntroEn": "The city's most modern pedestrian square, hosting vibrant cultural activities, entertainment, and street art performances.",
-    "neighborhoodEn": "Nguyen Hue St., Saigon Ward",
-    "bestForEn": "Walking, photography, food exploration, social gatherings.",
-    "highlightsEn": [
-      "Central square",
-      "Musical fountains"
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/8ewnjfeuTDixYR748",
-    "images": [
-      "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/3/11/1667669/Duong-Di-Bo-Nguyen-H-02.jpg",
-      "https://www.vietnambooking.com/wp-content/uploads/2026/03/pho-di-bo-nguyen-hue-1.jpg",
-      "https://mia.vn/media/uploads/blog-du-lich/pho-di-bo-nguyen-hue-1-1691590967.jpg"
-    ],
-    "lat": 10.7737834229336,
-    "lng": 106.703680447996,
+    "id": "HTTL",
+  "label": "Hoàng Thành",
+  "fullName": "Hoàng thành Thăng Long",
+  "category": "Danh lam thắng cảnh",
+  "description": "Hoàng thành Thăng Long là quần thể di tích lịch sử quan trọng bậc nhất của Việt Nam, gắn liền với lịch sử kinh đô Thăng Long – Hà Nội suốt hơn một nghìn năm. Được xây dựng từ thế kỷ XI dưới triều Lý, nơi đây từng là trung tâm quyền lực chính trị của nhiều triều đại phong kiến Việt Nam. Năm 2010, Hoàng thành Thăng Long được UNESCO công nhận là Di sản văn hóa thế giới nhờ những giá trị nổi bật về lịch sử, kiến trúc và khảo cổ học. Nổi bật với Đoan Môn, Điện Kính Thiên, thềm rồng đá và khu khảo cổ 18 Hoàng Diệu, địa danh này là điểm đến lý tưởng để khám phá chiều sâu lịch sử và văn hóa dân tộc.",
+  "shortIntro": "Di sản văn hóa thế giới giữa lòng Hà Nội, lưu giữ dấu tích kinh thành cổ và hơn một nghìn năm lịch sử các triều đại Việt Nam.",
+  "neighborhood": "19C Hoàng Diệu, phường Ba Đình, Hà Nội, Việt Nam",
+  "bestFor": "Khám phá lịch sử, tham quan di sản, tìm hiểu kiến trúc cổ, chụp ảnh check-in, du lịch văn hóa và giáo dục.",
+  "highlights": [
+    "Di sản văn hóa thế giới được UNESCO công nhận năm 2010",
+    "Đoan Môn – cổng thành lịch sử của Hoàng cung",
+    "Điện Kính Thiên và thềm rồng đá cổ",
+    "Khu khảo cổ học 18 Hoàng Diệu",
+    "Di tích gắn liền với lịch sử kinh đô Thăng Long hơn một nghìn năm"
+  ],
+  "x": 699,
+  "y": 411,
+  "fullNameEn": "Imperial Citadel of Thang Long",
+  "descriptionEn": "The Imperial Citadel of Thang Long is one of Vietnam's most important historical complexes, reflecting more than a thousand years of the history of Thang Long – Hanoi. Established in the 11th century under the Ly dynasty, it served as the political center of successive Vietnamese royal dynasties. In 2010, UNESCO inscribed the citadel on the World Heritage List in recognition of its outstanding historical, architectural, and archaeological significance. Key attractions include Doan Mon Gate, Kinh Thien Palace, the ancient stone dragon steps, and the archaeological site at 18 Hoang Dieu, making it an ideal destination for exploring Vietnam's rich cultural heritage.",
+  "shortIntroEn": "A UNESCO World Heritage Site in Hanoi, preserving the remains of an ancient imperial capital and over a thousand years of Vietnamese history.",
+  "neighborhoodEn": "19C Hoang Dieu Street, Ba Dinh Ward, Hanoi, Vietnam",
+  "bestForEn": "Historical exploration, heritage sightseeing, traditional architecture, photography, cultural tourism, and educational trips.",
+  "highlightsEn": [
+    "UNESCO World Heritage Site inscribed in 2010",
+    "Doan Mon – a historic gate of the imperial citadel",
+    "Kinh Thien Palace and ancient stone dragon steps",
+    "The archaeological site at 18 Hoang Dieu",
+    "A historic complex associated with over a thousand years of Vietnamese imperial history"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Imperial+Citadel+of+Thang+Long+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+    "https://images.unsplash.com/photo-1511818966892-d7d671e672a2"
+  ],
+  "lat": 21.0355,
+  "lng": 105.8412
     "displayOrder": 7
   },
   {
-    "id": "BT",
-    "label": "Chiến Tr",
-    "fullName": "Bảo tàng Chứng tích Chiến tranh",
-    "category": "Danh lam thắng cảnh",
-    "description": "Bảo tàng Chứng tích Chiến tranh là thành viên của Hệ thống các Bảo tàng vì Hòa bình thế giới. Nơi đây hiện lưu giữ hơn 20.000 tài liệu, hiện vật và phim ảnh về những tội ác chiến tranh và hậu quả tàn khốc của các thế lực xâm lược. Với các khu trưng bày ngoài trời về khí tài quân sự hạng nặng và các chuyên đề đặc biệt như \"Chuồng cọp\", bảo tàng mang lại những trải nghiệm cảm xúc mạnh mẽ và thông điệp sâu sắc về giá trị của hòa bình.",
-    "shortIntro": "Bảo tàng lịch sử đặc biệt lưu giữ những chứng tích sống động về cuộc chiến tranh Việt Nam và khát vọng hòa bình của dân tộc.",
-    "neighborhood": "28 đường Võ Văn Tần, Phường Xuân Hoà, Thành phố Hồ Chí Minh",
-    "bestFor": "Tìm hiểu lịch sử, giáo dục truyền thống, khách du lịch quốc tế, nghiên cứu văn hóa.",
-    "highlights": [
-      "Hiện vật khí tài quân sự",
-      "Triển lãm ảnh \"Hồi niệm\"",
-      "Tái hiện \"Chuồng cọp\"",
-      "Thông điệp hòa bình."
-    ],
-    "x": 311,
-    "y": 312,
-    "fullNameEn": "War Remnants Museum",
-    "descriptionEn": "The War Remnants Museum is a member of the International Network of Museums for Peace. It currently houses over 20,000 documents, artifacts, and films documenting war crimes and the devastating aftermath of invasion. With outdoor displays of heavy military equipment and specialized exhibits like the \"Tiger Cages,\" the museum offers a powerful emotional experience and a profound message about the value of peace.",
-    "shortIntroEn": "A poignant historical museum preserving vivid evidence of the Vietnam War and the nation's profound desire for peace.",
-    "neighborhoodEn": "28 Vo Van Tan St., Xuan Hoa Ward, Ho Chi Minh City",
-    "bestForEn": "Historical education, traditional education, international tourists, cultural research.",
-    "highlightsEn": [
-      "Military hardware artifacts",
-      "\"Requiem\" photo exhibit",
-      "\"Tiger Cages\" replica",
-      "Message of peace."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/wrSZHFjKWoRWSbVy6",
-    "images": [
-      "https://hnm.1cdn.vn/2025/04/29/cd873cca8e/a862.baotangctct.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6V-GVEB_UKqCyT3KV27gRylq3gLJzlC71g&s",
-      "https://danviet.ex-cdn.com/files/f1/296231569849192448/2022/4/26/bao-tang-anh-1-16508779448961946546318-1650955891247202697253.jpeg"
-    ],
-    "lat": 10.7793432303188,
-    "lng": 106.692266443069,
+    "id": "BTDTH",
+  "label": "Dân tộc học",
+  "fullName": "Bảo tàng Dân tộc học Việt Nam",
+  "category": "Danh lam thắng cảnh",
+  "description": "Được thành lập năm 1981 và chính thức mở cửa đón khách vào năm 1997, Bảo tàng Dân tộc học Việt Nam là một trong những trung tâm nghiên cứu và trưng bày văn hóa dân tộc tiêu biểu của Việt Nam. Bảo tàng giới thiệu đời sống, phong tục, tín ngưỡng và bản sắc văn hóa của 54 dân tộc Việt Nam thông qua hàng nghìn hiện vật, hình ảnh và tư liệu quý giá. Điểm nhấn đặc biệt là khu trưng bày ngoài trời với những công trình kiến trúc dân gian được tái hiện như nhà dài Ê Đê, nhà rông Ba Na và nhà sàn truyền thống. Đây là điểm đến lý tưởng để tìm hiểu sự đa dạng văn hóa và di sản của các cộng đồng dân tộc Việt Nam.",
+  "shortIntro": "Không gian khám phá văn hóa đặc sắc của 54 dân tộc Việt Nam, nổi bật với bộ sưu tập hiện vật phong phú và các công trình kiến trúc dân gian ngoài trời.",
+  "neighborhood": "Đường Nguyễn Văn Huyên, phường Nghĩa Đô, Hà Nội, Việt Nam",
+  "bestFor": "Tìm hiểu văn hóa dân tộc, tham quan gia đình, hoạt động giáo dục ngoại khóa, nghiên cứu văn hóa, chụp ảnh kiến trúc truyền thống.",
+  "highlights": [
+    "Bộ sưu tập hiện vật văn hóa của 54 dân tộc Việt Nam",
+    "Khu trưng bày ngoài trời với các công trình kiến trúc dân gian",
+    "Nhà dài Ê Đê, nhà rông Ba Na và nhà sàn truyền thống",
+    "Các triển lãm về phong tục, trang phục và đời sống cộng đồng",
+    "Hoạt động trải nghiệm văn hóa và giáo dục dành cho khách tham quan"
+  ],
+  "x": 311,
+  "y": 312,
+  "fullNameEn": "Vietnam Museum of Ethnology",
+  "descriptionEn": "Established in 1981 and officially opened to the public in 1997, the Vietnam Museum of Ethnology is one of the country's leading institutions for researching and exhibiting ethnic cultures. The museum explores the lifestyles, customs, beliefs, and cultural identities of Vietnam's 54 ethnic groups through thousands of valuable artifacts, photographs, and documents. A major highlight is the outdoor exhibition area, featuring traditional structures such as an Ede longhouse, a Ba Na communal house, and traditional stilt houses. It is an ideal destination for discovering Vietnam's cultural diversity and the heritage of its ethnic communities.",
+  "shortIntroEn": "A fascinating exploration of the cultures of Vietnam's 54 ethnic groups, featuring extensive collections and traditional architecture in an outdoor exhibition area.",
+  "neighborhoodEn": "Nguyen Van Huyen Street, Nghia Do Ward, Hanoi, Vietnam",
+  "bestForEn": "Ethnic culture, family visits, educational field trips, cultural research, and traditional architecture photography.",
+  "highlightsEn": [
+    "Cultural artifacts representing Vietnam's 54 ethnic groups",
+    "Outdoor exhibition area featuring traditional architecture",
+    "Ede longhouse, Ba Na communal house, and traditional stilt houses",
+    "Exhibitions on customs, clothing, and community life",
+    "Cultural activities and educational experiences for visitors"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vietnam+Museum+of+Ethnology+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "https://images.unsplash.com/photo-1511818966892-d7d671e672a2",
+    "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b"
+  ],
+  "lat": 21.0409,
+  "lng": 105.7982
     "displayOrder": 8
   },
   {
-    "id": "BNR",
-    "label": "Nhà Rồng",
-    "fullName": "Bến Nhà Rồng",
-    "category": "Danh lam thắng cảnh",
-    "description": "Bến Nhà Rồng là một trong những thương cảng lớn đầu tiên của Sài Gòn, nổi bật với đôi rồng gắn trên nóc nhà theo kiểu \"Lưỡng long chầu nguyệt\". Ngày nay, nơi đây là Bảo tàng Hồ Chí Minh, lưu giữ hàng ngàn hiện vật, hình ảnh về cuộc đời và sự nghiệp của vị lãnh tụ vĩ đại, đồng thời sở hữu tầm nhìn tuyệt đẹp hướng ra sông Sài Gòn.",
-    "shortIntro": "Di tích lịch sử biểu tượng, nơi khởi đầu hành trình cứu nước của Bác Hồ với kiến trúc Đông Dương độc đáo.",
-    "neighborhood": "1 Nguyễn Tất Thành, Xóm Chiếu",
-    "bestFor": "Tìm hiểu lịch sử, tham quan bảo tàng, ngắm cảnh sông Sài Gòn, khách du lịch lần đầu.",
-    "highlights": [
-      "Kiến trúc Pháp-Việt",
-      "Di tích lịch sử quốc gia",
-      "View sông trực diện",
-      "Vườn hoa xanh mát."
-    ],
-    "x": 812,
-    "y": 512,
-    "fullNameEn": "Dragon House Wharf",
-    "descriptionEn": "Dragon House Wharf was one of Saigon's first major commercial ports, famous for the two dragon statues on its roof. Today, it serves as the Ho Chi Minh Museum, preserving thousands of artifacts and photos of the Great Leader's life and career, while offering a stunning panoramic view of the Saigon River.",
-    "shortIntroEn": "An iconic historic site where Uncle Ho began his journey for national salvation, featuring unique Indochinese architecture.",
-    "neighborhoodEn": "1 Nguyen Tat Thanh Street, Ward 13, Xom Chieu, Ho Chi Minh City, Vietnam",
-    "bestForEn": "History learning, museum tours, Saigon river views, first-time visitors.",
-    "highlightsEn": [
-      "French-Vietnamese architecture",
-      "National historic site",
-      "Direct river view",
-      "Lush green gardens."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/Qcs5aaCNAkGVXeAY7",
-    "images": [
-      "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/10/19/z7133141767810e0eb37aef2b49ac29cb79b4b2f4abcbf-1760866905456219396306-234-0-1574-2560-crop-17608686346202031835810.jpg",
-      "https://static.vinwonders.com/production/ben-nha-rong-1.jpg"
-    ],
-    "lat": 10.7681343740776,
-    "lng": 106.706986427307,
+   "id": "PTH",
+  "label": "Phủ Tây Hồ",
+  "fullName": "Phủ Tây Hồ",
+  "category": "Danh lam thắng cảnh",
+  "description": "Phủ Tây Hồ là một trong những địa điểm tâm linh nổi tiếng của Hà Nội, nằm trên bán đảo lớn nhô ra Hồ Tây, gắn liền với tín ngưỡng thờ Mẫu của người Việt. Phủ thờ Liễu Hạnh Công chúa, một trong Tứ bất tử trong tín ngưỡng dân gian Việt Nam. Với kiến trúc truyền thống, những cổng tam quan, mái ngói cong và các họa tiết chạm khắc tinh xảo, nơi đây thu hút đông đảo người dân và du khách đến dâng hương, cầu bình an, may mắn và tài lộc, đặc biệt vào dịp đầu năm và ngày rằm. Không gian ven Hồ Tây cũng mang đến khung cảnh thanh bình, đậm nét văn hóa tâm linh của Thủ đô.",
+  "shortIntro": "Di tích tâm linh nổi tiếng bên Hồ Tây, gắn với tín ngưỡng thờ Mẫu và truyền thuyết Liễu Hạnh Công chúa, thu hút đông đảo khách hành hương.",
+  "neighborhood": "Đường Đặng Thai Mai, phường Tây Hồ, Hà Nội, Việt Nam",
+  "bestFor": "Du lịch tâm linh, tìm hiểu tín ngưỡng thờ Mẫu, tham quan kiến trúc truyền thống, chụp ảnh, ngắm cảnh Hồ Tây.",
+  "highlights": [
+    "Nơi thờ Liễu Hạnh Công chúa",
+    "Không gian tín ngưỡng thờ Mẫu đặc trưng của Việt Nam",
+    "Kiến trúc truyền thống với cổng tam quan và mái ngói cong",
+    "Vị trí trên bán đảo ven Hồ Tây",
+    "Lễ hội và hoạt động dâng hương vào dịp đầu năm"
+  ],
+  "x": 812,
+  "y": 512,
+  "fullNameEn": "Tay Ho Temple",
+  "descriptionEn": "Tay Ho Temple is one of Hanoi's most famous spiritual destinations, situated on a peninsula extending into West Lake and closely associated with Vietnam's Mother Goddess worship tradition. The temple is dedicated to Princess Lieu Hanh, one of the Four Immortals in Vietnamese folk belief. Featuring traditional architecture, triple gates, curved tiled roofs, and intricate decorative carvings, it attracts worshippers and visitors who come to pray for peace, good fortune, and prosperity, especially during the Lunar New Year and full-moon days. Its lakeside setting also offers a peaceful atmosphere and a glimpse into Hanoi's spiritual and cultural heritage.",
+  "shortIntroEn": "A renowned spiritual site beside West Lake, associated with Mother Goddess worship and the legend of Princess Lieu Hanh.",
+  "neighborhoodEn": "Dang Thai Mai Street, Tay Ho Ward, Hanoi, Vietnam",
+  "bestForEn": "Spiritual tourism, exploring Mother Goddess worship, traditional architecture, photography, and West Lake scenery.",
+  "highlightsEn": [
+    "Dedicated to Princess Lieu Hanh",
+    "A significant site of Vietnamese Mother Goddess worship",
+    "Traditional architecture with triple gates and curved tiled roofs",
+    "A scenic peninsula location beside West Lake",
+    "Worship ceremonies and festivals, especially during the Lunar New Year"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tay+Ho+Temple+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "https://images.unsplash.com/photo-1511818966892-d7d671e672a2"
+  ],
+  "lat": 21.0587,
+  "lng": 105.8232
     "displayOrder": 9
   },
   {
-    "id": "UBND",
-    "label": "Ủy Ban",
-    "fullName": "Trụ sở Ủy ban Nhân dân TP.HCM",
-    "category": "Danh lam thắng cảnh",
-    "description": "Tòa nhà được xây dựng từ năm 1898 đến 1909 với phong cách kiến trúc Phục Hưng đặc trưng. Mặt tiền tòa nhà được trang trí bằng các bức phù điêu tinh xảo, những cột trụ vững chãi và những tháp chuông thanh thoát. Nằm ở điểm cuối của phố đi bộ Nguyễn Huệ, đây là nơi check-in không thể bỏ qua, đặc biệt là vào ban đêm khi toàn bộ công trình được thắp sáng lung linh.",
-    "shortIntro": "Công trình kiến trúc Pháp cổ kính và lộng lẫy nhất Sài Gòn, biểu tượng quyền lực và văn hóa của thành phố.",
-    "neighborhood": "86 Lê Thánh Tôn, Bến Nghé, Sài Gòn, Hồ Chí Minh 700000, Việt Nam",
-    "bestFor": "Chụp ảnh check-in, tìm hiểu kiến trúc cổ, đi dạo phố đi bộ, tham quan đêm.",
-    "highlights": [
-      "Kiến trúc Pháp cổ điển",
-      "Vị trí trung tâm đắc địa",
-      "Mặt tiền điêu khắc tinh xảo",
-      "Biểu tượng của thành phố."
-    ],
-    "x": 637,
-    "y": 376,
-    "fullNameEn": "Ho Chí Minh City People's Committee",
-    "descriptionEn": "Built between 1898 and 1909 in a distinctive Renaissance style, the building features an ornate facade with exquisite bas-reliefs, sturdy pillars, and elegant bell towers. Located at the end of Nguyen Hue Walking Street, it is a must-visit photo spot, especially at night when the entire structure is beautifully illuminated.",
-    "shortIntroEn": "One of Saigon's most magnificent French colonial buildings, an iconic symbol of the city's power and culture.",
-    "neighborhoodEn": "86 Le Thanh Ton, Ben Nghe, Saigon, Ho Chi Minh",
-    "bestForEn": "Photography, architectural tours, walking street strolls, night sightseeing.",
-    "highlightsEn": [
-      "French colonial architecture",
-      "Prime central location",
-      "Ornate sculpted facade",
-      "Iconic city landmark."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/Fr5s6uGPrKiTAFFa8",
-    "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ayuntamiento%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG",
-      "https://tphcm.cdnchinhphu.vn/zoom/600_315/334895287454388224/2023/4/22/ubnd-tphcm-1-1682142573560143980867-12-0-612-960-crop-16821426016981553728476.jpg",
-      "https://uploads.nguoidothi.net.vn/content/f65eff16-522c-4acb-9ee3-9e26f6739215.jpg"
-    ],
-    "lat": 10.7757490176058,
-    "lng": 106.701852535485,
+     "id": "HT",
+  "label": "Hồ Tây",
+  "fullName": "Hồ Tây",
+  "category": "Danh lam thắng cảnh",
+  "description": "Hồ Tây là hồ nước tự nhiên lớn nhất nội thành Hà Nội, nổi tiếng với cảnh quan thơ mộng, mặt nước rộng lớn và những hàng cây xanh rợp bóng ven hồ. Nơi đây không chỉ là điểm thư giãn yêu thích của người dân Thủ đô mà còn gắn liền với nhiều di tích lịch sử, văn hóa như chùa Trấn Quốc, phủ Tây Hồ và đền Quán Thánh. Đặc biệt, khung cảnh hoàng hôn trên mặt hồ cùng những con đường ven hồ thoáng đãng tạo nên sức hút riêng, thu hút du khách đến dạo bộ, đạp xe, chụp ảnh và thưởng thức ẩm thực địa phương.",
+  "shortIntro": "Hồ nước tự nhiên lớn nhất nội thành Hà Nội, nổi bật với cảnh hoàng hôn lãng mạn, đường ven hồ thơ mộng và nhiều di tích văn hóa lâu đời.",
+  "neighborhood": "Khu vực Hồ Tây, quận Tây Hồ, Hà Nội, Việt Nam",
+  "bestFor": "Ngắm hoàng hôn, đi dạo ven hồ, đạp xe, chụp ảnh check-in, thưởng thức ẩm thực và khám phá di tích lịch sử.",
+  "highlights": [
+    "Cảnh hoàng hôn tuyệt đẹp trên mặt hồ",
+    "Đường Thanh Niên và những hàng cây xanh ven hồ",
+    "Chùa Trấn Quốc nằm bên hồ",
+    "Phủ Tây Hồ và các di tích văn hóa lân cận",
+    "Nhiều quán cà phê, nhà hàng với tầm nhìn hướng hồ"
+  ],
+  "x": 637,
+  "y": 376,
+  "fullNameEn": "West Lake, Hanoi",
+  "descriptionEn": "West Lake is the largest natural lake within central Hanoi, renowned for its scenic waterfront, expansive waters, and tree-lined promenades. It is a favorite recreational destination for locals and visitors alike and is surrounded by historical and cultural landmarks such as Tran Quoc Pagoda, Tay Ho Temple, and Quan Thanh Temple. The romantic sunsets over the lake and peaceful lakeside roads make it an appealing place for walking, cycling, photography, and enjoying local cuisine.",
+  "shortIntroEn": "Hanoi's largest urban lake, famous for romantic sunsets, scenic waterfront paths, and historic cultural landmarks.",
+  "neighborhoodEn": "West Lake area, Tay Ho District, Hanoi, Vietnam",
+  "bestForEn": "Sunset watching, lakeside walks, cycling, photography, local cuisine, and exploring historical landmarks.",
+  "highlightsEn": [
+    "Beautiful sunsets over the lake",
+    "Thanh Nien Street and tree-lined waterfront",
+    "Tran Quoc Pagoda beside the lake",
+    "Tay Ho Temple and nearby cultural landmarks",
+    "Cafes and restaurants with lake views"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=West+Lake+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+    "https://images.unsplash.com/photo-1449824913935-59a10b8d2000"
+  ],
+  "lat": 21.0557,
+  "lng": 105.8188,
     "displayOrder": 10
   },
   {
-    "id": "CHUANGOCHOANG",
-    "label": "Chùa",
-    "fullName": "Chùa Ngọc Hoàng",
-    "category": "Danh lam thắng cảnh",
-    "description": "Chùa Ngọc Hoàng (hay Điện Ngọc Hoàng) là một ngôi chùa cổ theo kiểu Trung Hoa với những mảng chạm khắc gỗ tinh xảo và các pho tượng bằng giấy bồi độc đáo. Nơi đây nổi tiếng là điểm đến tâm linh để cầu bình an, sự nghiệp và đặc biệt là cầu con cái tại điện Kim Thoa Thánh Mẫu. Không gian trầm mặc, khói hương nghi ngút cùng hồ rùa biểu tượng tạo nên sức hút riêng biệt cho địa danh này.",
-    "shortIntro": "Ngôi chùa linh thiêng bậc nhất Sài Gòn với kiến trúc người Hoa đặc sắc, từng đón tiếp Tổng thống Barack Obama.",
-    "neighborhood": "73 Mai Thị Lựu, Tân Định",
-    "bestFor": "Tham quan văn hóa, cầu may mắn, chụp ảnh kiến trúc, khách du lịch tâm linh.",
-    "highlights": [
-      "Kiến trúc cổ kính",
-      "Linh thiêng bậc nhất",
-      "Hồ rùa biểu tượng",
-      "Di tích nghệ thuật quốc gia."
-    ],
-    "x": 472,
-    "y": 88,
-    "fullNameEn": "Jade Emperor Pagoda",
-    "descriptionEn": "The Jade Emperor Pagoda is an ancient Chinese-style temple adorned with intricate woodcarvings and unique papier-mâché statues. It is a renowned spiritual site for those seeking peace, success, and especially fertility at the Kim Thoa Holy Mother hall. The solemn atmosphere, drifting incense, and the iconic turtle pond contribute to the unique charm of this landmark.",
-    "shortIntroEn": "One of Saigon's most sacred pagodas, featuring stunning Chinese architecture and famous for hosting President Barack Obama.",
-    "neighborhoodEn": "73 Mai Thi Luu, Tan Dinh Ward",
-    "bestForEn": "Cultural sightseeing, praying for luck, architectural photography, spiritual tourists.",
-    "highlightsEn": [
-      "Ancient architecture",
-      "Highly sacred",
-      "Iconic turtle pond",
-      "National artistic heritage."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/eQE68G1Ev8bhae4d9",
-    "images": [
-      "https://statics.vinpearl.com/chua-ngoc-hoang-2_1630222820.jpg",
-      "https://cdn.xanhsm.com/2024/11/2033a3d8-chua-ngoc-hoang-01.jpg"
-    ],
-    "lat": 10.7919110611704,
-    "lng": 106.696987112471,
+    "id": "CHUAMOTCOT",
+  "label": "Chùa Một Cột",
+  "fullName": "Chùa Một Cột",
+  "category": "Danh lam thắng cảnh",
+  "description": "Chùa Một Cột là một trong những công trình kiến trúc Phật giáo tiêu biểu và độc đáo nhất của Việt Nam, được xây dựng vào năm 1049 dưới triều vua Lý Thái Tông. Ngôi chùa nổi bật với kiến trúc tựa đóa sen vươn lên từ mặt nước, đặt trên một cột đá duy nhất, tượng trưng cho sự thanh cao và tinh khiết. Gắn liền với truyền thuyết vua Lý Thái Tông nằm mộng thấy Quan Âm ngồi trên đài sen, chùa trở thành điểm đến tâm linh và di sản văn hóa nổi tiếng của Hà Nội. Với vẻ đẹp cổ kính cùng giá trị lịch sử lâu đời, nơi đây thu hút đông đảo du khách trong nước và quốc tế đến tham quan, chiêm bái và tìm hiểu văn hóa Phật giáo Việt Nam.",
+  "shortIntro": "Biểu tượng kiến trúc Phật giáo độc đáo của Hà Nội, nổi tiếng với ngôi chùa nhỏ hình đóa sen được nâng đỡ bởi một cột đá giữa hồ.",
+  "neighborhood": "Phố Chùa Một Cột, phường Ba Đình, Hà Nội, Việt Nam",
+  "bestFor": "Tham quan di tích lịch sử, du lịch tâm linh, khám phá kiến trúc Phật giáo, chụp ảnh và tìm hiểu văn hóa Việt Nam.",
+  "highlights": [
+    "Kiến trúc độc đáo hình đóa sen trên một cột đá",
+    "Được xây dựng năm 1049 dưới triều Lý",
+    "Gắn liền với truyền thuyết vua Lý Thái Tông và Quan Âm",
+    "Di tích kiến trúc nghệ thuật quốc gia đặc biệt",
+    "Nằm gần Lăng Chủ tịch Hồ Chí Minh và Quảng trường Ba Đình"
+  ],
+  "x": 472,
+  "y": 88,
+  "fullNameEn": "One Pillar Pagoda",
+  "descriptionEn": "One Pillar Pagoda is one of Vietnam's most distinctive Buddhist architectural landmarks, originally built in 1049 during the reign of Emperor Ly Thai Tong. The pagoda is renowned for its lotus-shaped structure rising above a pond, supported by a single stone pillar and symbolizing purity and spiritual elegance. According to legend, Emperor Ly Thai Tong dreamed of the Bodhisattva Avalokitesvara seated on a lotus throne, inspiring the construction of the pagoda. With its historic significance and unique design, it is a popular destination for domestic and international visitors interested in Vietnamese Buddhist culture and heritage.",
+  "shortIntroEn": "An iconic Buddhist landmark in Hanoi, famous for its small lotus-shaped pagoda supported by a single stone pillar above a pond.",
+  "neighborhoodEn": "One Pillar Pagoda Street, Ba Dinh Ward, Hanoi, Vietnam",
+  "bestForEn": "Historical sightseeing, spiritual tourism, Buddhist architecture, photography, and Vietnamese cultural exploration.",
+  "highlightsEn": [
+    "Unique lotus-shaped architecture supported by a single stone pillar",
+    "Originally built in 1049 during the Ly dynasty",
+    "Associated with the legend of Emperor Ly Thai Tong and Avalokitesvara",
+    "A nationally recognized special architectural and artistic monument",
+    "Located near the Ho Chi Minh Mausoleum and Ba Dinh Square"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=One+Pillar+Pagoda+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "https://images.unsplash.com/photo-1511818966892-d7d671e672a2"
+  ],
+  "lat": 21.0359,
+  "lng": 105.8329,
     "displayOrder": 12
   },
   {
-    "id": "BITEXCO",
-    "label": "Bitexco",
-    "fullName": "Tòa nhà Bitexco Financial",
-    "category": "Mua sắm",
-    "description": "Bitexco Financial Tower từng là tòa nhà cao nhất TP.HCM, nổi bật với thiết kế lấy cảm hứng từ búp sen vươn cao. Điểm nhấn đặc biệt nhất là đài quan sát Saigon Skydeck ở tầng 49 và sân đậu trực thăng lơ lửng ở tầng 52. Đây là tổ hợp văn phòng, mua sắm và giải trí sang trọng",
-    "shortIntro": "Biểu tượng hiện đại của Sài Gòn với kiến trúc búp sen độc đáo và đài quan sát 360 độ ngắm toàn cảnh thành phố.",
-    "neighborhood": "2 Hải Triều, Bến Nghé, Sài Gòn",
-    "bestFor": "Ngắm cảnh thành phố, mua sắm, chụp ảnh nghệ thuật, khách du lịch lần đầu.",
-    "highlights": [
-      "Kiến trúc búp sen",
-      "Đài quan sát Skydeck",
-      "Sân đậu trực thăng độc đáo",
-      "Biểu tượng hiện đại."
-    ],
-    "x": 754,
-    "y": 457,
-    "fullNameEn": "Bitexco Financial Tower",
-    "descriptionEn": "Bitexco Financial Tower, once the tallest building in HCMC, stands out with its design inspired by a rising lotus bud. The highlights include the Saigon Skydeck on the 49th floor and a cantilevered helipad on the 52nd floor. It is a luxury complex for offices, shopping, and entertainment",
-    "shortIntroEn": "A modern icon of Saigon featuring unique lotus-inspired architecture and a 360-degree city observatory.",
-    "neighborhoodEn": "2 Hai Trieu Street, Ben Nghe Ward, Saigon",
-    "bestForEn": "City sightseeing, shopping, photography, first-time visitors",
-    "highlightsEn": [
-      "Lotus-shaped design",
-      "Skydeck observatory",
-      "Unique helipad",
-      "Modern iconic landmark."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/X41wrbdwJEddWBqC6",
-    "images": [
-      "https://dlsconsultant.com/wp-content/uploads/2023/09/Bitexco-Financial-Tower-1.jpg",
-      "https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_20969/20181220033905_UDpyQ/jpg",
-      "https://images.pexels.com/photos/30097233/pexels-photo-30097233.jpeg?cs=srgb&dl=pexels-phamthe-30097233.jpg&fm=jpg"
-    ],
-    "lat": 10.7712118509732,
-    "lng": 106.70529127121,
+    "id": "LANDMARK72",
+  "label": "Landmark 72",
+  "fullName": "Keangnam Hanoi Landmark Tower",
+  "category": "Mua sắm",
+  "description": "Keangnam Hanoi Landmark Tower, thường được biết đến với tên Landmark 72, là tổ hợp cao ốc hiện đại nổi bật tại khu vực phía Tây Hà Nội. Hoàn thành năm 2011, công trình gồm tòa tháp chính cao 72 tầng cùng các khối văn phòng, khách sạn và khu dịch vụ đa chức năng. Với kiến trúc kính hiện đại và quy mô ấn tượng, Landmark 72 từng là một trong những tòa nhà cao nhất Việt Nam. Nơi đây tập trung nhiều dịch vụ văn phòng, khách sạn, nhà hàng và tiện ích giải trí, đồng thời là điểm nhấn kiến trúc của khu đô thị mới phía Tây Thủ đô.",
+  "shortIntro": "Tổ hợp cao ốc biểu tượng của phía Tây Hà Nội, nổi bật với tòa tháp 72 tầng, kiến trúc kính hiện đại và hệ thống dịch vụ thương mại đa dạng.",
+  "neighborhood": "Khu E6, đường Phạm Hùng, phường Yên Hòa, Hà Nội, Việt Nam",
+  "bestFor": "Tham quan kiến trúc hiện đại, lưu trú khách sạn, công tác, ăn uống, chụp ảnh đô thị và khám phá khu vực phía Tây Hà Nội.",
+  "highlights": [
+    "Tòa tháp chính cao 72 tầng",
+    "Kiến trúc kính hiện đại nổi bật trên đường chân trời Hà Nội",
+    "Tổ hợp văn phòng và khách sạn",
+    "Nhiều nhà hàng, dịch vụ và tiện ích thương mại",
+    "Vị trí tại khu đô thị phát triển phía Tây Thủ đô"
+  ],
+  "x": 754,
+  "y": 457,
+  "fullNameEn": "Keangnam Hanoi Landmark Tower",
+  "descriptionEn": "Keangnam Hanoi Landmark Tower, commonly known as Landmark 72, is a prominent modern skyscraper complex in western Hanoi. Completed in 2011, the development features a 72-story main tower alongside office, hotel, and mixed-use facilities. With its contemporary glass architecture and impressive scale, Landmark 72 was once among the tallest buildings in Vietnam. The complex accommodates offices, hotel services, restaurants, and various amenities, making it a recognizable architectural landmark in Hanoi's rapidly developing western district.",
+  "shortIntroEn": "An iconic high-rise complex in western Hanoi, featuring a 72-story tower, modern glass architecture, and a range of commercial services.",
+  "neighborhoodEn": "E6 Area, Pham Hung Street, Yen Hoa Ward, Hanoi, Vietnam",
+  "bestForEn": "Modern architecture, hotel stays, business trips, dining, urban photography, and exploring western Hanoi.",
+  "highlightsEn": [
+    "A 72-story main tower",
+    "Modern glass architecture on Hanoi's skyline",
+    "Office and hotel complex",
+    "Restaurants, services, and commercial amenities",
+    "Located in Hanoi's rapidly developing western district"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Keangnam+Hanoi+Landmark+Tower",
+  "images": [
+    "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b",
+    "https://images.unsplash.com/photo-1511818966892-d7d671e672a2",
+    "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df"
+  ],
+  "lat": 21.0169,
+  "lng": 105.7831,
     "displayOrder": 13
   },
   {
-    "id": "CHUAXALOI",
-    "label": "Chùa Xá",
-    "fullName": "Chùa Xá Lợi",
-    "category": "Danh lam thắng cảnh",
-    "description": "Chùa Xá Lợi không chỉ là một trung tâm Phật giáo quan trọng mà còn là chứng nhân lịch sử cho những phong trào đấu tranh của Phật giáo tại Sài Gòn. Ngôi chùa nổi tiếng với tháp chuông 7 tầng cao 32m, bên trong thờ xá lợi Phật Thích Ca và các bức bích họa tuyệt đẹp về cuộc đời đức Phật, tạo nên một không gian thanh tịnh và uy nghiêm.",
-    "shortIntro": "Ngôi chùa lịch sử với tháp chuông cao nhất Việt Nam và kiến trúc hiện đại kết hợp truyền thống độc đáo.",
-    "neighborhood": "89 Bà Huyện Thanh Quan, Phường 7, Xuân Hòa, Hồ Chí Minh",
-    "bestFor": "Chiêm bái Phật giáo, tìm hiểu lịch sử, tham quan kiến trúc, thiền định.",
-    "highlights": [
-      "Tháp chuông cao nhất Việt Nam",
-      "Kiến trúc Phật giáo hiện đại",
-      "Lưu giữ Xá lợi Phật",
-      "Không gian yên tĩnh."
-    ],
-    "x": 88,
-    "y": 312,
-    "fullNameEn": "Xa Loi Buddhist Temple",
-    "descriptionEn": "Xa Loi Pagoda is not only a key Buddhist center but also a historical witness to Buddhist movements in Saigon. The pagoda is famous for its 32-meter, 7-story bell tower, housing the relics of Gautama Buddha and stunning murals depicting the Buddha's life, creating a peaceful and solemn atmosphere.",
-    "shortIntroEn": "A historic pagoda featuring the tallest bell tower in Vietnam and a unique blend of modern and traditional architecture.",
-    "neighborhoodEn": "89 Ba Huyen Thanh Quan Street, Ward 7, Xuan Hoa Ward, Ho Chi Minh City",
-    "bestForEn": "Buddhist worship, history learning, architectural tours, meditation.",
-    "highlightsEn": [
-      "Vietnam's tallest bell tower",
-      "Modern Buddhist architecture",
-      "Housing Sacred Relics",
-      "Peaceful atmosphere."
-    ],
-    "googleMapsUrl": "https://maps.app.goo.gl/R8vsToPBohEFJ3EW8",
-    "images": [
-      "https://image.giacngo.vn/w770/Uploaded/2026/uobkhuo/2025_11_06/24d7ae4ec19c74c22d8d-4914-8498.jpg.webp",
-      "https://static.vinwonders.com/production/chua-xa-loi-2.jpg",
-      "https://katana.bdatrip.com/v2/image?src=https%3A%2F%2Fimages.bdatrip.com%2F2024%2F10%2Fchua-xa-loi.png&w=3840"
-    ],
-    "lat": 10.7793492311296,
-    "lng": 106.685714951035,
+   "id": "LANGLUAVANPHUC",
+  "label": "Làng lụa",
+  "fullName": "Làng lụa Vạn Phúc",
+  "category": "Danh lam thắng cảnh",
+  "description": "Làng lụa Vạn Phúc, thường được biết đến với tên gọi Làng lụa Hà Đông, là một trong những làng nghề dệt lụa truyền thống nổi tiếng nhất Việt Nam với lịch sử hàng nghìn năm. Nơi đây nổi bật với những sản phẩm lụa tơ tằm mềm mại, hoa văn tinh xảo và kỹ thuật dệt thủ công được truyền qua nhiều thế hệ. Khi đến thăm làng, du khách có thể khám phá những con ngõ cổ, tham quan các cửa hàng lụa, tìm hiểu quy trình dệt truyền thống và lựa chọn những món quà lưu niệm mang đậm bản sắc Việt Nam. Không gian làng nghề kết hợp giữa nét văn hóa xưa và nhịp sống hiện đại tạo nên điểm đến hấp dẫn cho những người yêu thích thủ công mỹ nghệ.",
+  "shortIntro": "Làng nghề dệt lụa truyền thống nổi tiếng của Hà Nội, thu hút du khách bởi những sản phẩm tơ tằm tinh xảo, con phố làng cổ kính và nét văn hóa thủ công lâu đời.",
+  "neighborhood": "Phường Vạn Phúc, Hà Nội, Việt Nam",
+  "bestFor": "Khám phá làng nghề truyền thống, mua sắm lụa tơ tằm, tìm hiểu văn hóa Việt Nam, chụp ảnh, trải nghiệm thủ công mỹ nghệ.",
+  "highlights": [
+    "Nghề dệt lụa tơ tằm truyền thống lâu đời",
+    "Các cửa hàng trưng bày và bán sản phẩm lụa",
+    "Khám phá ngõ phố và không gian làng nghề cổ",
+    "Tìm hiểu quy trình dệt lụa thủ công",
+    "Các sản phẩm khăn, áo và vải lụa làm quà lưu niệm"
+  ],
+  "x": 88,
+  "y": 312,
+  "fullNameEn": "Van Phuc Silk Village",
+  "descriptionEn": "Van Phuc Silk Village, commonly known as Ha Dong Silk Village, is one of Vietnam's most renowned traditional silk-weaving villages, with a history spanning many centuries. It is celebrated for its soft silk products, intricate patterns, and hand-weaving techniques passed down through generations. Visitors can explore traditional village lanes, browse silk shops, learn about the silk-making process, and purchase souvenirs that reflect Vietnamese craftsmanship. The blend of traditional heritage and contemporary village life makes it an appealing destination for visitors interested in local culture and handicrafts.",
+  "shortIntroEn": "A famous traditional silk-weaving village in Hanoi, known for its finely crafted silk products, historic village lanes, and enduring handicraft heritage.",
+  "neighborhoodEn": "Van Phuc Ward, Hanoi, Vietnam",
+  "bestForEn": "Traditional craft exploration, silk shopping, Vietnamese cultural experiences, photography, and handicrafts.",
+  "highlightsEn": [
+    "A long-standing tradition of silk weaving",
+    "Shops displaying and selling silk products",
+    "Traditional village lanes and historic surroundings",
+    "Insights into the handmade silk-weaving process",
+    "Silk scarves, clothing, and fabrics suitable as souvenirs"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Van+Phuc+Silk+Village+Ha+Dong+Hanoi",
+  "images": [
+    "https://images.unsplash.com/photo-1558618666-fcd25c85cd64",
+    "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17",
+    "https://images.unsplash.com/photo-1600166898405-da9535204843"
+  ],
+  "lat": 20.9718,
+  "lng": 105.7765,
     "displayOrder": 14
   }
 ];
