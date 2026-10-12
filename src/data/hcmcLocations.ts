@@ -7,35 +7,31 @@ import { GraphData, PresetSelectionMap, Route, TouristLocation } from '../types'
 
 export const INITIAL_LOCATIONS: TouristLocation[] = [
   {
-    "id": "MC",
-    "label": "Marie",
-    "fullName": "THPT Marie Curie",
+    "id": "TL",
+    "label": "ThangLong",
+    "fullName": "THPT Thăng Long- Hà Nội",
     "category": "Di sản học đường",
-    "description": "Điểm đến lý tưởng để chiêm ngưỡng kiến trúc cổ điển Pháp giữa lòng Sài Gòn. Với khuôn viên xanh mát và những dãy hành lang vàng rực rỡ, đây không chỉ là nơi học tập mà còn là di sản văn hóa đặc sắc. Phù hợp cho những ai yêu thích chụp ảnh và tìm hiểu lịch sử giáo dục.",
-    "shortIntro": "Là ngôi trường mang tên nữ bác học Marie Curie và được xây dựng từ năm 1918",
-    "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2024/3/12/1-1710213316279120465335.jpg",
-    "neighborhood": "159 Nam Kỳ Khởi Nghĩa, Phường Xuân Hòa, Hồ Chí Minh, Việt Nam",
+    "description": "Điểm đến lý tưởng để trải nghiệm một trường học có bề dày thành tích học tập, là một trong những trường top đầu tại Hà Nội về chất lượng giáo dục.",
+    "shortIntro": "Là ngôi trường với 66 năm xây dựng và trường thành",
+    "imageUrl": "https://toliha.vn/wp-content/uploads/2024/10/truong-thpt-thang-long-ha-noi-3.jpeg",
+    "neighborhood": "số 44 Tạ Quang Bửu,Phường Bạch Mai, Thành phố Hà Nội, Việt Nam",
     "bestFor": "Chụp ảnh, Di tích lịch sử",
     "highlights": [
-      "Kiến trúc cổ điển Pháp độc đáo"
+      "top đầu Hà Nội"
     ],
     "x": 263,
     "y": 256,
-    "fullNameEn": "Marie Curie High School",
-    "descriptionEn": "An ideal spot to admire classic French architecture in the heart of Saigon. With its lush green campus and vibrant yellow corridors, it is not just a place for education but also a unique cultural heritage. Perfect for photography enthusiasts and those interested in education's history.",
-    "shortIntroEn": "A prestigious high school established in 1918 that features French architecture and named after the Nobel-prize winning scientist Marie Curie.",
-    "neighborhoodEn": "159 Nam Ky Khoi Nghia St., Xuan Hoa Ward, Ho Chi Minh City",
+    "fullNameEn": "Thang long High School",
+    "descriptionEn": "An ideal destination to experience a school with a distinguished academic track record, ranking among the top schools in Hanoi for educational quality.",
+    "shortIntroEn": "A school with a 66-year history of development and growth.",
+    "neighborhoodEn": "44 Ta Quang Buu, Bach Mai Ward, Hanoi City, Vietnam",
     "bestForEn": "Photography, Historical site",
     "highlightsEn": [
-      "Unique French colonial architecture",
-      "Historic landmark",
-      "Centrally located"
+      "A top-tier institution in Hanoi for education and training.",
     ],
-    "googleMapsUrl": "https://maps.app.goo.gl/2WUKuLytgaoKGuYM8",
+    "googleMapsUrl": "https://maps.app.goo.gl/MoBeGLHEXBjSg4Zc6",
     "images": [
-      "https://images2.thanhnien.vn/528068263637045248/2024/3/12/1-1710213316279120465335.jpg",
-      "https://cafefcdn.com/203337114487263232/2022/7/22/photo-1-16584813205191298720052.jpeg",
-      "https://toquoc.mediacdn.vn/280518851207290880/2022/11/9/k149292-1-16680342063221259409123.jpg"
+      "https://toliha.vn/wp-content/uploads/2024/10/truong-thpt-thang-long-ha-noi-3.jpeg",
     ],
     "lat": 10.7824693989679,
     "lng": 106.690850472009,
